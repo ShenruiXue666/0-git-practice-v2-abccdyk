@@ -16,3 +16,6 @@ These best practices not only improve **collaboration** within teams but also ma
 
 ## Comment - Andrew Jung 
 This article is interesting not only because of its topic but also because it is directly related to the exercise that we are all participating in. The insights from this article will also be useful to me for the remainder of this course and will help me maintain projects more smoothly. Thank you! 
+
+## Comment - Hao
+I think this article is very helpful for me. I will try to use it in the future.
