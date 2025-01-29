@@ -13,3 +13,6 @@ A structured format improves clarity and maintainability. A good commit message 
 - References to **related issues** or **PRs**
 
 These best practices not only improve **collaboration** within teams but also make debugging and maintaining code significantly easier over time. It’s a great reminder that commit messages are not just a formality but an **essential part of software development**.
+
+## Comment - Andrew Jung 
+This article is interesting not only because of its topic but also because it is directly related to the exercise that we are all participating in. The insights from this article will also be useful to me for the remainder of this course and will help me maintain projects more smoothly. Thank you! 
