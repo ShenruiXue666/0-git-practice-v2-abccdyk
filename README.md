@@ -19,3 +19,6 @@ This article is interesting not only because of its topic but also because it is
 
 ## Comment - Hao
 I think this article is very helpful for me. I will try to use it in the future.
+
+## COmment - Shenrui
+After reading this article, i think i have better understanding about software engineer.
